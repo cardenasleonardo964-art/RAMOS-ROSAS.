@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Feliz San Valentín 💖</title>
+<style>
+    body {
+        margin: 0;
+        font-family: Arial, sans-serif;
+        background: linear-gradient(to bottom, #ffdde1, #ee9ca7);
+        text-align: center;
+        color: #b3003c;
+    }
+    .container {
+        padding: 40px 20px;
+    }
+    h1 {
+        font-size: 40px;
+        margin-bottom: 10px;
+    }
+    p {
+        font-size: 28px;
+        font-weight: bold;
+    }
+    .roses {
+        font-size: 60px;
+        margin: 20px 0;
+        animation: float 3s ease-in-out infinite;
+    }
+    @keyframes float {
+        0% { transform: translateY(0px); }
+        50% { transform: translateY(-15px); }
+        100% { transform: translateY(0px); }
+    }
+    footer {
+        margin-top: 30px;
+        font-size: 18px;
+        color: #660029;
+    }
+</style>
+</head>
+<body>
+
+<div class="container">
+    <h1>🌹 Feliz San Valentín 🌹</h1>
+    
+    <div class="roses">
+        🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹
+        <br>
+        🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹
+    </div>
+
+    <p>Te amo demasiado Carlitos ❤️</p>
+
+    <footer>
+        Con todo mi amor 💕
+    </footer>
+</div>
+
+</body>
+</html>
